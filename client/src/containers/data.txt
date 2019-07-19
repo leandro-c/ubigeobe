@@ -1,0 +1,10 @@
+    
+01 Lima /  / 
+01 Lima / 50 Lima /
+01 Lima / 51 barranca /
+01 Lima / 50 Lima / 202 La Molina
+01 Lima / 50 Lima / 203 sna isidro
+02 Arequipa / / 
+02 Arequipa / 63 arequpa / 
+02 Arequipa / 64 caylloma/ 
+02 Arequipa / 63 arequipa / 267 cercado
